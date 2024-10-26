@@ -173,3 +173,4 @@ for (let j = 0; j < 10; j++) {
 
 // Final result
 console.log(`Final 3-Digit Code (Obfuscated): ${code}`);
+console.log(`https://ibb.co/ccTkrKG`);
